@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Аналіз продуктивності індетермінантних та детермінантних томатів в умовах вирощування Старовижівської селищної ради Волинської області",
+    "category": "Екологія та аграрні науки",
+    "region": "Волинська",
+    "details_url": "innovation-details.php?id=1",
+    "booth_url": "virtual-booth.php?id=1"
+  },
+  {
+    "id": 2,
+    "title": "Оптимізація застосування хижих кліщів Amblyseius californicus для екологічно безпечного контролю павутинних кліщів у яблуневих садах",
+    "category": "Екологія та аграрні науки",
+    "region": "Дніпропетровська",
+    "details_url": "innovation-details.php?id=2",
+    "booth_url": "virtual-booth.php?id=2"
+  },
+  {
+    "id": 3,
+    "title": "Агроекологічні особливості вирощування малопоширеної нової культури «Трихозант змієподібний» за органічною технологією",
+    "category": "Екологія та аграрні науки",
+    "region": "Донецька",
+    "details_url": "innovation-details.php?id=3",
+    "booth_url": "virtual-booth.php?id=3"
+  },
+  {
+    "id": 4,
+    "title": "Екологічні аспекти вирощування мікрогріну в промислових умовах",
+    "category": "Екологія та аграрні науки",
+    "region": "Житомирська",
+    "details_url": "innovation-details.php?id=4",
+    "booth_url": "virtual-booth.php?id=4"
+  },
+  {
+    "id": 5,
+    "title": "Вплив схеми посадки на врожайність та якість інжиру в умовах Закарпатської області",
+    "category": "Екологія та аграрні науки",
+    "region": "Закарпатська",
+    "details_url": "innovation-details.php?id=5",
+    "booth_url": "virtual-booth.php?id=5"
+  },
+  {
+    "id": 6,
+    "title": "Вплив гірчиці білої на урожайність картоплі та чисельність дротянки в ґрунті",
+    "category": "Екологія та аграрні науки",
+    "region": "Івано-Франківська",
+    "details_url": "innovation-details.php?id=6",
+    "booth_url": "virtual-booth.php?id=6"
+  },
+  {
+    "id": 7,
+    "title": "Вивчення впливу умов вирощування на характеристики базового насіння цукрових буряків",
+    "category": "Екологія та аграрні науки",
+    "region": "Київська",
+    "details_url": "innovation-details.php?id=7",
+    "booth_url": "virtual-booth.php?id=7"
+  },
+  {
+    "id": 8,
+    "title": "Оптимальні умови вирощування живців Yucca elephantipes при застосуванні стимулятора коренеутворення на різних субстратах",
+    "category": "Екологія та аграрні науки",
+    "region": "Кіровоградська",
+    "details_url": "innovation-details.php?id=8",
+    "booth_url": "virtual-booth.php?id=8"
+  },
+  {
+    "id": 9,
+    "title": "Продуктивність сортів сої залежно від бактеризації насіння",
+    "category": "Екологія та аграрні науки",
+    "region": "Львівська",
+    "details_url": "innovation-details.php?id=9",
+    "booth_url": "virtual-booth.php?id=9"
+  },
+  {
+    "id": 10,
+    "title": "Вплив стимуляторів росту на посівні якості насіння і фотосинтетичні пігменти ріпаку ярого",
+    "category": "Екологія та аграрні науки",
+    "region": "Полтавська",
+    "details_url": "innovation-details.php?id=10",
+    "booth_url": "virtual-booth.php?id=10"
+  },
+  {
+    "id": 11,
+    "title": "Вплив різних норм протруйників і антистресанта на посівні якості насіння пшениці озимої та їх морфометричні параметри",
+    "category": "Екологія та аграрні науки",
+    "region": "Рівненська",
+    "details_url": "innovation-details.php?id=11",
+    "booth_url": "virtual-booth.php?id=11"
+  },
+  {
+    "id": 12,
+    "title": "Вплив регулятора росту Кудос на ростові процеси інтенсивних насаджень яблуні",
+    "category": "Екологія та аграрні науки",
+    "region": "Харківська",
+    "details_url": "innovation-details.php?id=12",
+    "booth_url": "virtual-booth.php?id=12"
+  },
+  {
+    "id": 13,
+    "title": "Біологічне обґрунтування дії фізіологічно активних речовин на рослини кукурудзи в умовах Лівобережного Лісостепу України",
+    "category": "Екологія та аграрні науки",
+    "region": "Черкаська",
+    "details_url": "innovation-details.php?id=13",
+    "booth_url": "virtual-booth.php?id=13"
+  },
+  {
+    "id": 14,
+    "title": "Аналіз основних біохімічних та технологічних показників якості бульб сучасних сортів картоплі в умовах режиму зберігання",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернівецька",
+    "details_url": "innovation-details.php?id=14",
+    "booth_url": "virtual-booth.php?id=14"
+  },
+  {
+    "id": 15,
+    "title": "Технології виробництва добрива для ґрунту з альтернативної сировини",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернігівська",
+    "details_url": "innovation-details.php?id=15",
+    "booth_url": "virtual-booth.php?id=15"
+  },
+  {
+    "id": 16,
+    "title": "Протекторний вплив культурних середовищ Azotobacter vinelandii ІМВ В-7076 та Bacillus subtilis ІМВ В-7023 на насіння сої, оброблене пероксидом водню",
+    "category": "Екологія та аграрні науки",
+    "region": "м. Київ",
+    "details_url": "innovation-details.php?id=16",
+    "booth_url": "virtual-booth.php?id=16"
+  },
+  {
+    "id": 17,
+    "title": "Інформаційний шум в освітньому просторі та шляхи зменшення навантаження його як основа здоров'язбережувальної поведінки.",
+    "category": "Екологія та аграрні науки",
+    "region": "Вінницька",
+    "details_url": "innovation-details.php?id=17",
+    "booth_url": "virtual-booth.php?id=17"
+  },
+  {
+    "id": 18,
+    "title": "Видове різноманіття та екологічні характеристики рослин меліоративних каналів торфовища «Коза-Березина»",
+    "category": "Екологія та аграрні науки",
+    "region": "Волинська",
+    "details_url": "innovation-details.php?id=18",
+    "booth_url": "virtual-booth.php?id=18"
+  },
+  {
+    "id": 19,
+    "title": "Застосунок «NEW GREENS» для моделювання стійких деревних насаджень з урахуванням їх екологічних адаптацій та регуляторних екосистемних сервісів",
+    "category": "Екологія та аграрні науки",
+    "region": "Дніпропетровська",
+    "details_url": "innovation-details.php?id=19",
+    "booth_url": "virtual-booth.php?id=19"
+  },
+  {
+    "id": 20,
+    "title": "Вивчення методів очищення ґрунту від радіонуклідів на прикладі фітодезактивації",
+    "category": "Екологія та аграрні науки",
+    "region": "Донецька",
+    "details_url": "innovation-details.php?id=20",
+    "booth_url": "virtual-booth.php?id=20"
+  },
+  {
+    "id": 21,
+    "title": "Перспективність використання М'яти перцевої для комплексної рекультивації земель після видобутку базальту",
+    "category": "Екологія та аграрні науки",
+    "region": "Житомирська",
+    "details_url": "innovation-details.php?id=21",
+    "booth_url": "virtual-booth.php?id=21"
+  },
+  {
+    "id": 22,
+    "title": "Мікроклімат деревних мікроселищ Заказника Пікуй",
+    "category": "Екологія та аграрні науки",
+    "region": "Закарпатська",
+    "details_url": "innovation-details.php?id=22",
+    "booth_url": "virtual-booth.php?id=22"
+  },
+  {
+    "id": 23,
+    "title": "Вплив урбаністичних рішень на міські теплові острови (на прикладі міста Запоріжжя)",
+    "category": "Екологія та аграрні науки",
+    "region": "Запорізька",
+    "details_url": "innovation-details.php?id=23",
+    "booth_url": "virtual-booth.php?id=23"
+  },
+  {
+    "id": 24,
+    "title": "Пилкова діагностика якості атмосферного повітря міста Івано-Франківська",
+    "category": "Екологія та аграрні науки",
+    "region": "Івано-Франківська",
+    "details_url": "innovation-details.php?id=24",
+    "booth_url": "virtual-booth.php?id=24"
+  },
+  {
+    "id": 25,
+    "title": "Екологічні наслідки війни: оцінка росту і розвитку сої на забруднених ґрунтах",
+    "category": "Екологія та аграрні науки",
+    "region": "Київська",
+    "details_url": "innovation-details.php?id=25",
+    "booth_url": "virtual-booth.php?id=25"
+  },
+  {
+    "id": 26,
+    "title": "Адвентивна орнітофауна та теріофауна локальної екосистеми Петрокорбівського старостинського округу",
+    "category": "Екологія та аграрні науки",
+    "region": "Кіровоградська",
+    "details_url": "innovation-details.php?id=26",
+    "booth_url": "virtual-booth.php?id=26"
+  },
+  {
+    "id": 27,
+    "title": "Оцінка стійкості зеленої зони міста Києва влітку 2024 року та пропозиції щодо її підвищення",
+    "category": "Екологія та аграрні науки",
+    "region": "Луганська",
+    "details_url": "innovation-details.php?id=27",
+    "booth_url": "virtual-booth.php?id=27"
+  },
+  {
+    "id": 28,
+    "title": "Дослідження токсичності води Стебницького хвостосховища методом біотестування на Daphnia magna Straus",
+    "category": "Екологія та аграрні науки",
+    "region": "Львівська",
+    "details_url": "innovation-details.php?id=28",
+    "booth_url": "virtual-booth.php?id=28"
+  },
+  {
+    "id": 29,
+    "title": "Дослідження наслідків розливів рослинної олії в природних водоймах та методів їх ліквідації",
+    "category": "Екологія та аграрні науки",
+    "region": "Миколаївська",
+    "details_url": "innovation-details.php?id=29",
+    "booth_url": "virtual-booth.php?id=29"
+  },
+  {
+    "id": 30,
+    "title": "Лiхеноiндикацiйна оцiнка якоcтi атмоcфеpного повiтpя в контекcтi екологiчного монiтоpингу",
+    "category": "Екологія та аграрні науки",
+    "region": "Полтавська",
+    "details_url": "innovation-details.php?id=30",
+    "booth_url": "virtual-booth.php?id=30"
+  },
+  {
+    "id": 31,
+    "title": "Біоіндикаційне дослідження стану атмосферного повітря м. Суми за флуктуючою асиметрією листкової пластинки Betula pendula Roth.",
+    "category": "Екологія та аграрні науки",
+    "region": "Сумська",
+    "details_url": "innovation-details.php?id=31",
+    "booth_url": "virtual-booth.php?id=31"
+  },
+  {
+    "id": 32,
+    "title": "Дослідження стану поширення Eriophorum Vaginatum L. на територіях природно-заповідного фонду України",
+    "category": "Екологія та аграрні науки",
+    "region": "Харківська",
+    "details_url": "innovation-details.php?id=32",
+    "booth_url": "virtual-booth.php?id=32"
+  },
+  {
+    "id": 33,
+    "title": "Дослідження екологічного стану річки Дністер в межах ВБУ міжнародного значення «Бакотська затока» методами біоіндикації",
+    "category": "Екологія та аграрні науки",
+    "region": "Хмельницька",
+    "details_url": "innovation-details.php?id=33",
+    "booth_url": "virtual-booth.php?id=33"
+  },
+  {
+    "id": 34,
+    "title": "Аналіз агроекологічних особливостей поширення ваточника сирійського в межах с. Жаботин",
+    "category": "Екологія та аграрні науки",
+    "region": "Черкаська",
+    "details_url": "innovation-details.php?id=34",
+    "booth_url": "virtual-booth.php?id=34"
+  },
+  {
+    "id": 35,
+    "title": "Фіторізноманіття смуг трав'яного дикоросту як екологічний інструмент стійкості агроландшафтів",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернівецька",
+    "details_url": "innovation-details.php?id=35",
+    "booth_url": "virtual-booth.php?id=35"
+  },
+  {
+    "id": 36,
+    "title": "Вплив метаболічно активних речовин на фізіологічні показники проростків",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернігівська",
+    "details_url": "innovation-details.php?id=36",
+    "booth_url": "virtual-booth.php?id=36"
+  },
+  {
+    "id": 37,
+    "title": "Фізіологічна стійкість інвазійних лісів до факторів природнього середовища",
+    "category": "Екологія та аграрні науки",
+    "region": "Вінницька",
+    "details_url": "innovation-details.php?id=37",
+    "booth_url": "virtual-booth.php?id=37"
+  },
+  {
+    "id": 38,
+    "title": "Вплив регуляторів росту на якісні показники сіянців сосни звичайної в розсаднику Павлівського лісництва",
+    "category": "Екологія та аграрні науки",
+    "region": "Волинська",
+    "details_url": "innovation-details.php?id=38",
+    "booth_url": "virtual-booth.php?id=38"
+  },
+  {
+    "id": 39,
+    "title": "Сучасний стан деревостанів Quercus petraea у штучних лісонасадженнях Степового Придніпров'я",
+    "category": "Екологія та аграрні науки",
+    "region": "Дніпропетровська",
+    "details_url": "innovation-details.php?id=39",
+    "booth_url": "virtual-booth.php?id=39"
+  },
+  {
+    "id": 40,
+    "title": "Різноманітність декоративних трав’янистих рослин у ландшафтних композиціях урбанізованого середовища",
+    "category": "Екологія та аграрні науки",
+    "region": "Житомирська",
+    "details_url": "innovation-details.php?id=40",
+    "booth_url": "virtual-booth.php?id=40"
+  },
+  {
+    "id": 41,
+    "title": "Видовий склад паркових зон правобережжя м. Запоріжжя",
+    "category": "Екологія та аграрні науки",
+    "region": "Запорізька",
+    "details_url": "innovation-details.php?id=41",
+    "booth_url": "virtual-booth.php?id=41"
+  },
+  {
+    "id": 42,
+    "title": "Стан інвазії урбоекосистеми м. Івано-Франківська самшитовою вогнівкою (Сydalima perspectalis)",
+    "category": "Екологія та аграрні науки",
+    "region": "Івано-Франківська",
+    "details_url": "innovation-details.php?id=42",
+    "booth_url": "virtual-booth.php?id=42"
+  },
+  {
+    "id": 43,
+    "title": "Вплив стимуляторів росту на біометричні показники сіянців Pinus sylvestris L. у Снітинському лісництві",
+    "category": "Екологія та аграрні науки",
+    "region": "Київська",
+    "details_url": "innovation-details.php?id=43",
+    "booth_url": "virtual-booth.php?id=43"
+  },
+  {
+    "id": 44,
+    "title": "Плодоношення бука лісового в умовах змін клімату",
+    "category": "Екологія та аграрні науки",
+    "region": "Львівська",
+    "details_url": "innovation-details.php?id=44",
+    "booth_url": "virtual-booth.php?id=44"
+  },
+  {
+    "id": 45,
+    "title": "Розробка ефективних методів розмноження тису ягідного та ялівця віргінського в умовах м. Одеси та дослідження фізіологічно активної дії екстрактів хвойних рослин.",
+    "category": "Екологія та аграрні науки",
+    "region": "Одеська",
+    "details_url": "innovation-details.php?id=45",
+    "booth_url": "virtual-booth.php?id=45"
+  },
+  {
+    "id": 46,
+    "title": "Моніторинг лісових пожеж у Полтавській області",
+    "category": "Екологія та аграрні науки",
+    "region": "Полтавська",
+    "details_url": "innovation-details.php?id=46",
+    "booth_url": "virtual-booth.php?id=46"
+  },
+  {
+    "id": 47,
+    "title": "Розроблення природоохоронних заходів Мостівського лісництва з використанням геоінформаційних систем",
+    "category": "Екологія та аграрні науки",
+    "region": "Рівненська",
+    "details_url": "innovation-details.php?id=47",
+    "booth_url": "virtual-booth.php?id=47"
+  },
+  {
+    "id": 48,
+    "title": "Використання мавританських газонів у декоративному озелененні урбанізованих територій (на прикладі м. Глухова)",
+    "category": "Екологія та аграрні науки",
+    "region": "Сумська",
+    "details_url": "innovation-details.php?id=48",
+    "booth_url": "virtual-booth.php?id=48"
+  },
+  {
+    "id": 49,
+    "title": "Інвазійний шкідник ясенова смарагдова вузькотіла златка у вуличних насадженнях Харкова",
+    "category": "Екологія та аграрні науки",
+    "region": "Харківська",
+    "details_url": "innovation-details.php?id=49",
+    "booth_url": "virtual-booth.php?id=49"
+  },
+  {
+    "id": 50,
+    "title": "Екологічні групи рослин відділу Pinophyta територій загального користування м. Чернігова: систематична структура, особливості, використання та рекомендації щодо озеленення",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернігівська",
+    "details_url": "innovation-details.php?id=50",
+    "booth_url": "virtual-booth.php?id=50"
+  },
+  {
+    "id": 51,
+    "title": "Вплив зелених насаджень на ментальний стан мешканців міст",
+    "category": "Екологія та аграрні науки",
+    "region": "м. Київ",
+    "details_url": "innovation-details.php?id=51",
+    "booth_url": "virtual-booth.php?id=51"
+  },
+  {
+    "id": 52,
+    "title": "Вплив ферментативної активності грибів на розкладання пластику",
+    "category": "Екологія та аграрні науки",
+    "region": "Вінницька",
+    "details_url": "innovation-details.php?id=52",
+    "booth_url": "virtual-booth.php?id=52"
+  },
+  {
+    "id": 53,
+    "title": "Адвентивні види рослин парку «Слов’янський» м. Володимира",
+    "category": "Екологія та аграрні науки",
+    "region": "Волинська",
+    "details_url": "innovation-details.php?id=53",
+    "booth_url": "virtual-booth.php?id=53"
+  },
+  {
+    "id": 54,
+    "title": "Технологія утилізації опалого листя на території населених пунктів",
+    "category": "Екологія та аграрні науки",
+    "region": "Дніпропетровська",
+    "details_url": "innovation-details.php?id=54",
+    "booth_url": "virtual-booth.php?id=54"
+  },
+  {
+    "id": 55,
+    "title": "Вивчення впливу антропогенних чинників забруднення на екологічний стан річки Казенний Торець.",
+    "category": "Екологія та аграрні науки",
+    "region": "Донецька",
+    "details_url": "innovation-details.php?id=55",
+    "booth_url": "virtual-booth.php?id=55"
+  },
+  {
+    "id": 56,
+    "title": "Порівняльний аналіз впливу урбанізації на фітоценотичну структуру та екологічну диференціацію макрофітної рослинності гідроекосистем Польщі та України",
+    "category": "Екологія та аграрні науки",
+    "region": "Житомирська",
+    "details_url": "innovation-details.php?id=56",
+    "booth_url": "virtual-booth.php?id=56"
+  },
+  {
+    "id": 57,
+    "title": "Вплив бактерій роду Azotobacter на родючість ґрунту",
+    "category": "Екологія та аграрні науки",
+    "region": "Закарпатська",
+    "details_url": "innovation-details.php?id=57",
+    "booth_url": "virtual-booth.php?id=57"
+  },
+  {
+    "id": 58,
+    "title": "Дослідження санітарного стану малих річок м. Запоріжжя (на прикладі р. Суха Московка)",
+    "category": "Екологія та аграрні науки",
+    "region": "Запорізька",
+    "details_url": "innovation-details.php?id=58",
+    "booth_url": "virtual-booth.php?id=58"
+  },
+  {
+    "id": 59,
+    "title": "Дослідження токсикомутагенної напруги середовища як складова оцінки екологічних наслідків військових дій на природні екосистеми (на прикладі Національного Природного Парку «Кам’янська Січ»)",
+    "category": "Екологія та аграрні науки",
+    "region": "Івано-Франківська",
+    "details_url": "innovation-details.php?id=59",
+    "booth_url": "virtual-booth.php?id=59"
+  },
+  {
+    "id": 60,
+    "title": "Визначення токсичності поверхневих вод затоплених і підтоплених територій в межах Димерської територіальної громади методом «ростового тесту»",
+    "category": "Екологія та аграрні науки",
+    "region": "Київська",
+    "details_url": "innovation-details.php?id=60",
+    "booth_url": "virtual-booth.php?id=60"
+  },
+  {
+    "id": 61,
+    "title": "Системи стійкості Juglans Regia в умовах лісосмуг Степової зони України",
+    "category": "Екологія та аграрні науки",
+    "region": "Кіровоградська",
+    "details_url": "innovation-details.php?id=61",
+    "booth_url": "virtual-booth.php?id=61"
+  },
+  {
+    "id": 62,
+    "title": "Аналіз впливу теплоелектростанцій України на довкілля та їх перспективи у зв'язку зі вступом країни до ЄС",
+    "category": "Екологія та аграрні науки",
+    "region": "Луганська",
+    "details_url": "innovation-details.php?id=62",
+    "booth_url": "virtual-booth.php?id=62"
+  },
+  {
+    "id": 63,
+    "title": "Ріст бактерій Azotobacter sp. і Streptomyces sp. за впливу солей плюмбуму та купруму",
+    "category": "Екологія та аграрні науки",
+    "region": "Львівська",
+    "details_url": "innovation-details.php?id=63",
+    "booth_url": "virtual-booth.php?id=63"
+  },
+  {
+    "id": 64,
+    "title": "Дослідження якості води для урбаністичної іригації зелених насаджень в умовах посухи",
+    "category": "Екологія та аграрні науки",
+    "region": "Миколаївська",
+    "details_url": "innovation-details.php?id=64",
+    "booth_url": "virtual-booth.php?id=64"
+  },
+  {
+    "id": 65,
+    "title": "Оптимізація виробництва хумусу: еколого-економічний аспект",
+    "category": "Екологія та аграрні науки",
+    "region": "Одеська",
+    "details_url": "innovation-details.php?id=65",
+    "booth_url": "virtual-booth.php?id=65"
+  },
+  {
+    "id": 66,
+    "title": "Проблеми питної води та шляхи їх подолання",
+    "category": "Екологія та аграрні науки",
+    "region": "Полтавська",
+    "details_url": "innovation-details.php?id=66",
+    "booth_url": "virtual-booth.php?id=66"
+  },
+  {
+    "id": 67,
+    "title": "Оптимізація мережі водоохоронних територій філії «Дубенське ЛГ» ДП «Ліси України»",
+    "category": "Екологія та аграрні науки",
+    "region": "Рівненська",
+    "details_url": "innovation-details.php?id=67",
+    "booth_url": "virtual-booth.php?id=67"
+  },
+  {
+    "id": 68,
+    "title": "Оцінка токсичності джерел антропогенного забруднення малих річок у межах міста Шумськ",
+    "category": "Екологія та аграрні науки",
+    "region": "Тернопільська",
+    "details_url": "innovation-details.php?id=68",
+    "booth_url": "virtual-booth.php?id=68"
+  },
+  {
+    "id": 69,
+    "title": "Визначення фітотоксичного ефекту нафтопродуктів на деякі сільськогосподарські рослини",
+    "category": "Екологія та аграрні науки",
+    "region": "Харківська",
+    "details_url": "innovation-details.php?id=69",
+    "booth_url": "virtual-booth.php?id=69"
+  },
+  {
+    "id": 70,
+    "title": "Методи очистки водопровідної води у побуті",
+    "category": "Екологія та аграрні науки",
+    "region": "Херсонська",
+    "details_url": "innovation-details.php?id=70",
+    "booth_url": "virtual-booth.php?id=70"
+  },
+  {
+    "id": 71,
+    "title": "Застосування коагулянтів серії BUKOCHEM у процесах очищення природних вод від частинок мікропластику",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернівецька",
+    "details_url": "innovation-details.php?id=71",
+    "booth_url": "virtual-booth.php?id=71"
+  },
+  {
+    "id": 72,
+    "title": "Антибактеріальна та фіторемедіаторна активність Кушира зануреного (Ceratophyllum demersum L.)",
+    "category": "Екологія та аграрні науки",
+    "region": "м. Київ",
+    "details_url": "innovation-details.php?id=72",
+    "booth_url": "virtual-booth.php?id=72"
+  },
+  {
+    "id": 73,
+    "title": "Перспективи заміни мікрозеленню традиційних культур",
+    "category": "Екологія та аграрні науки",
+    "region": "Вінницька",
+    "details_url": "innovation-details.php?id=73",
+    "booth_url": "virtual-booth.php?id=73"
+  },
+  {
+    "id": 74,
+    "title": "Влив різних видів поживних середовищ на мікроклональне розмноження Cordyline fruticosa (L.) A. Chev",
+    "category": "Екологія та аграрні науки",
+    "region": "Волинська",
+    "details_url": "innovation-details.php?id=74",
+    "booth_url": "virtual-booth.php?id=74"
+  },
+  {
+    "id": 75,
+    "title": "Морфогенетичний поліморфізм листків Trifolium repens L.",
+    "category": "Екологія та аграрні науки",
+    "region": "Житомирська",
+    "details_url": "innovation-details.php?id=75",
+    "booth_url": "virtual-booth.php?id=75"
+  },
+  {
+    "id": 76,
+    "title": "Вплив морфології бластоцисти та щвидкості їх розвитку на еуплоїдію та живонародження",
+    "category": "Екологія та аграрні науки",
+    "region": "Закарпатська",
+    "details_url": "innovation-details.php?id=76",
+    "booth_url": "virtual-booth.php?id=76"
+  },
+  {
+    "id": 77,
+    "title": "Мінливість морфометричних параметрів шишок Pinus sylvestris L. в насадженнях Снітинського лісництва",
+    "category": "Екологія та аграрні науки",
+    "region": "Київська",
+    "details_url": "innovation-details.php?id=77",
+    "booth_url": "virtual-booth.php?id=77"
+  },
+  {
+    "id": 78,
+    "title": "Мікророзмноження in vitro як альтернативний метод селекції рослин.",
+    "category": "Екологія та аграрні науки",
+    "region": "Львівська",
+    "details_url": "innovation-details.php?id=78",
+    "booth_url": "virtual-booth.php?id=78"
+  },
+  {
+    "id": 79,
+    "title": "Цитометричні дослідження садових борідкових ірисів різних класів для оптимізації підбору батьківських пар для схрещування",
+    "category": "Екологія та аграрні науки",
+    "region": "Миколаївська",
+    "details_url": "innovation-details.php?id=79",
+    "booth_url": "virtual-booth.php?id=79"
+  },
+  {
+    "id": 80,
+    "title": "Ефективність процесу отримання морфогенних калюсів м'якої пшениці за рахунок їх культивування на різних селективних середовищах",
+    "category": "Екологія та аграрні науки",
+    "region": "Одеська",
+    "details_url": "innovation-details.php?id=80",
+    "booth_url": "virtual-booth.php?id=80"
+  },
+  {
+    "id": 81,
+    "title": "Підбір батьківських пар для гібридизації сої культурної",
+    "category": "Екологія та аграрні науки",
+    "region": "Полтавська",
+    "details_url": "innovation-details.php?id=81",
+    "booth_url": "virtual-booth.php?id=81"
+  },
+  {
+    "id": 82,
+    "title": "Оцінка впливу складу субстратних композицій на ефективність вирощування та врожайність білої печериці (Agaricus bisporus)",
+    "category": "Екологія та аграрні науки",
+    "region": "Рівненська",
+    "details_url": "innovation-details.php?id=82",
+    "booth_url": "virtual-booth.php?id=82"
+  },
+  {
+    "id": 83,
+    "title": "Поведінкові особливості породистих собак та їхній генетичний детермінізм",
+    "category": "Екологія та аграрні науки",
+    "region": "Сумська",
+    "details_url": "innovation-details.php?id=83",
+    "booth_url": "virtual-booth.php?id=83"
+  },
+  {
+    "id": 84,
+    "title": "Оцінка вибірки з природної популяції Drosophila melanogaster за інфікованістю бактерією Wolbachia та присутністю мобільного генетичного елементу hobo",
+    "category": "Екологія та аграрні науки",
+    "region": "Харківська",
+    "details_url": "innovation-details.php?id=84",
+    "booth_url": "virtual-booth.php?id=84"
+  },
+  {
+    "id": 85,
+    "title": "Генетичний поліморфізм українських зразків інвазійних видів Reynoutria роду на основі ISSR-маркерів",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернівецька",
+    "details_url": "innovation-details.php?id=85",
+    "booth_url": "virtual-booth.php?id=85"
+  },
+  {
+    "id": 86,
+    "title": "Lactuca sativa: асортимент сортів, репродукція, перспективи використання у харчуванні",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернігівська",
+    "details_url": "innovation-details.php?id=86",
+    "booth_url": "virtual-booth.php?id=86"
+  },
+  {
+    "id": 87,
+    "title": "Gammarus fossarum як тестерний об'єкт дослідження генотоксичності середовища",
+    "category": "Екологія та аграрні науки",
+    "region": "м. Київ",
+    "details_url": "innovation-details.php?id=87",
+    "booth_url": "virtual-booth.php?id=87"
+  },
+  {
+    "id": 88,
+    "title": "Otodectes та Ctenocephalides у Felis catus (L.) із м. Володимира та околиць",
+    "category": "Екологія та аграрні науки",
+    "region": "Волинська",
+    "details_url": "innovation-details.php?id=88",
+    "booth_url": "virtual-booth.php?id=88"
+  },
+  {
+    "id": 89,
+    "title": "Вплив вологості ґрунту на санітарно-мікробіологічний стан пасовищ в умовах степового Придніпров’я",
+    "category": "Екологія та аграрні науки",
+    "region": "Дніпропетровська",
+    "details_url": "innovation-details.php?id=89",
+    "booth_url": "virtual-booth.php?id=89"
+  },
+  {
+    "id": 90,
+    "title": "Використання настоянки з насіння лимонника китайського у комплексній терапії розладів травлення у собак, пов’язаних з дією стрес-факторів",
+    "category": "Екологія та аграрні науки",
+    "region": "Житомирська",
+    "details_url": "innovation-details.php?id=90",
+    "booth_url": "virtual-booth.php?id=90"
+  },
+  {
+    "id": 91,
+    "title": "Вплив годівлі на морфометричні показники кролів каліфорнійської породи на Прикарпатті",
+    "category": "Екологія та аграрні науки",
+    "region": "Івано-Франківська",
+    "details_url": "innovation-details.php?id=91",
+    "booth_url": "virtual-booth.php?id=91"
+  },
+  {
+    "id": 92,
+    "title": "Ідентифікація Listeria monocytogenes у молоці за допомогою методу полімеразної ланцюгової реакції",
+    "category": "Екологія та аграрні науки",
+    "region": "Київська",
+    "details_url": "innovation-details.php?id=92",
+    "booth_url": "virtual-booth.php?id=92"
+  },
+  {
+    "id": 93,
+    "title": "Фізіологічний стан організму кролів за різних температурних режимів",
+    "category": "Екологія та аграрні науки",
+    "region": "Львівська",
+    "details_url": "innovation-details.php?id=93",
+    "booth_url": "virtual-booth.php?id=93"
+  },
+  {
+    "id": 94,
+    "title": "Сучасні методи лікування маласезійного дерматиту у собак",
+    "category": "Екологія та аграрні науки",
+    "region": "Полтавська",
+    "details_url": "innovation-details.php?id=94",
+    "booth_url": "virtual-booth.php?id=94"
+  },
+  {
+    "id": 95,
+    "title": "Толерантність і безпечність антибактеріального препарату на основі колістину сульфату для лабораторних тварин",
+    "category": "Екологія та аграрні науки",
+    "region": "Рівненська",
+    "details_url": "innovation-details.php?id=95",
+    "booth_url": "virtual-booth.php?id=95"
+  },
+  {
+    "id": 96,
+    "title": "Встановлення захворюваності серед декоративних птахів у м. Харків",
+    "category": "Екологія та аграрні науки",
+    "region": "Харківська",
+    "details_url": "innovation-details.php?id=96",
+    "booth_url": "virtual-booth.php?id=96"
+  },
+  {
+    "id": 97,
+    "title": "Вплив полімінерального препарату «Апіплазма» на вміст біометалів та зимостійкість медоносних бджіл",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернівецька",
+    "details_url": "innovation-details.php?id=97",
+    "booth_url": "virtual-booth.php?id=97"
+  },
+  {
+    "id": 98,
+    "title": "Розпізнавання візуальних проявів дискомфорту та болю у прокатних коней",
+    "category": "Екологія та аграрні науки",
+    "region": "Чернігівська",
+    "details_url": "innovation-details.php?id=98",
+    "booth_url": "virtual-booth.php?id=98"
+  },
+  {
+    "id": 99,
+    "title": "Дослідження складу йогуртів та споживчі вподобання",
+    "category": "Екологія та аграрні науки",
+    "region": "м. Київ",
+    "details_url": "innovation-details.php?id=99",
+    "booth_url": "virtual-booth.php?id=99"
+  },
+  {
+    "id": 100,
+    "title": "Жіноче лідерство в економічній історії України",
+    "category": "Економіка",
+    "region": "Волинська",
+    "details_url": "innovation-details.php?id=100",
+    "booth_url": "virtual-booth.php?id=100"
+  }
+]
